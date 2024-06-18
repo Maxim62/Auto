@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         Fragment fragment = new AutomatyCategoryFragment();
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-        ft.add(R.id.content_frame, fragment);
+        ft.add(R.id.content_frame, fragment );
         ft.commit();
     }
 
