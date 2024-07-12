@@ -92,7 +92,7 @@
         присоединяться штык-нож. Для стрельбы и наблюдения к автомату могут присоединяться коллиматорные, оптические, ночные,
         дневноночные стрелковые прицелы и лазерные целеуказатели и т.д.</string>
 
-    <string name="ustroystvo_akm_fragment">Устройство АКМ</string>
+    <string name="ustroystvo_akm_fragment">7,62 мм автомат АКМ состоит из следующих частей:</string>
     <string name="ustroystvo_akms_fragment">Устройство АКМС</string>
     <string name="ustroystvo_ak74_fragment">Устройство АК-74</string>
     <string name="ustroystvo_ak74m_fragment">Устройство АК74М</string>
@@ -111,7 +111,6 @@
     <string name="pristr_akm_fragment">Проверка боя оружия и приведение его к нормальному бою акм</string>
 
 
-    >
     <string name="ttx_ak47_fragment">ТТХ ак47</string>
     <string name="razborka_ak47_fragment">Разборка ак47</string>
     <string name="pristr_ak47_fragment">Проверка боя оружия и приведение его к нормальному бою ак47</string>
